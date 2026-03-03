@@ -1,0 +1,4 @@
+what is java=Java is a high-level programming language.
+what is ai=AI stands for Artificial Intelligence.
+what is chatbot=A chatbot is a program that simulates conversation.
+how are you=I am functioning properly.
