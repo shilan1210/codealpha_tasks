@@ -75,9 +75,9 @@ Revenue Report:
 ===== REVENUE REPORT =====
 Total Bookings: 3
 Total Revenue: Rs.15000
-💾 Data Storage Format
 
-Bookings are stored in:bookings.txt
-Each record contains:RoomNumber,CustomerName,Phone,Date,Days
+💾 Data Storage Format
+  Bookings are stored in:bookings.txt
+  Each record contains:RoomNumber,CustomerName,Phone,Date,Days
 
 Technologies Used:Java (Core Java),Java Swing (GUI),OOP Principles,File I/O (BufferedReader, BufferedWriter),ArrayList & HashMap,Exception Handling
