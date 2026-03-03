@@ -64,5 +64,3 @@ Bot: AI stands for Artificial Intelligence. (Confidence: 100%)
 🧩 Technologies Used
 Java (Core Java),Object-Oriented Programming,Java Swing (GUI),File Handling (BufferedReader),HashMap (Data storage),Regular Expressions (Pattern matching)
 
-👨‍💻 Author
-Developed as part of internship-level academic project to demonstrate applied NLP and Java development skills.
